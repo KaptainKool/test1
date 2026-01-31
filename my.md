@@ -22,7 +22,7 @@ This page is written in **Markdown**, but GitHub converts it to **HTML** before 
 
 ### An image
 
-![Octocat waving hello]([https://github.githubassets.com/images/modules/logos_page/Octocat.png](https://brand.github.com/_next/static/media/logo-04.c5edeefa.png))
+![Octocat waving hello](https://brand.github.com/_next/static/media/logo-04.c5edeefa.png)
 
 ---
 
